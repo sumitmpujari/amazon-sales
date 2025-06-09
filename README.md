@@ -28,6 +28,7 @@ Chart	Description
 🏆 Top 5 Products	Horizontal bar chart sorted by quantity sold or total sales
 ⭐ Top 5 Reviewed Products	Bar chart sorted by total review count
 
+
 # Documentation Notes:
 •	Date Table Includes: Year, Quarter, Month, Week, Day, Month Name, Day Name.
 •	Time Intelligence Used: TOTALYTD, SAMEPERIODLASTYEAR, PARALLELPERIOD, DATESMTD, etc.
@@ -41,3 +42,8 @@ The Power BI dashboard offers real-time, interactive insights into both financia
 •	Track trends by week/month/year
 •	Make inventory and marketing decisions based on reviews and sales volume
 This well-documented and validated report follows best practices in data modeling, DAX, and Power Query for optimal performance and user experience.
+
+# database
+1. https://github.com/sumitmpujari/amazon-sales/blob/main/dashboard.png
+2. 
+#
