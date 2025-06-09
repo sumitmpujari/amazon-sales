@@ -1,6 +1,8 @@
 # amazon-sales
 Power BI dashboard (2013-2022) shows sales trends, top products, and customer insights with dynamic KPIs and DAX for smart business decisions.
 
+![image](https://github.com/user-attachments/assets/aac95f7e-4dfd-4438-a2c3-31218073e8ea)
+
 # Project Title:
 Sales & Financial Analysis Dashboard with YTD KPIs, Time Intelligence, and Product Insights
 
