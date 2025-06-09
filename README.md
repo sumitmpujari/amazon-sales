@@ -45,5 +45,6 @@ This well-documented and validated report follows best practices in data modelin
 
 # database
 1. https://github.com/sumitmpujari/amazon-sales/blob/main/dashboard.png
-2. 
-#
+2. https://github.com/sumitmpujari/amazon-sales/blob/main/Amazon_Combined_Data.xlsx
+3. 
+
